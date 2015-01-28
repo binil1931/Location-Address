@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">surva</string>
+    <string name="pick_time">Pick time</string>
+    <string name="selectdate">Pick time</string>
+
+</resources>
